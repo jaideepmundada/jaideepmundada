@@ -1,5 +1,12 @@
-## Hi there 👋, I'm Jaideep Mundada
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=jaideepmundada&label=PROFILE+VIEWS&style=for-the-badge&color=9333EA)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -79,8 +86,10 @@ I'm an **Information Technology student** with a strong passion for learning new
   
 ## 📚 Coding Platforms
 
-- LeetCode
-
+<p align="center">
+<a href="https://leetcode.com/u/jaideep_mundada/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
 ## 🤝 Connect With Me
 
