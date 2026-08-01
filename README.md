@@ -10,7 +10,51 @@ I'm an **Information Technology student** with a strong passion for learning new
 - 📚 Improving my **Data Structures & Algorithms** skills
 - 🚀 Building projects to gain practical experience
 
+## 🛠️ Tech Stack & Tools
 
+<table>
+<tr>
+<td><b>💻 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+</tr>
+
+<tr>
+<td><b>💡 Programming Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Tools & Platforms</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</td>
+</tr>
+
+<tr>
+<td><b>📚 Currently Learning</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker" />
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Stats
 
