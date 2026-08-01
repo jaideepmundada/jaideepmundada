@@ -20,6 +20,10 @@ I'm an **Information Technology student** with a strong passion for learning new
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaideepmundada&theme=github-dark)
 
+## 📈 Contribution Graph
+
+[![Jaideep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaideepmundada&theme=github-dark)](https://github.com/jaideepmundada)
+
 ## 🎯 Current Goals
 
 - 🚀 Build impactful full-stack applications
