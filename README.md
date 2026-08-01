@@ -2,8 +2,6 @@
 
 # 👋 Hey there, I'm **Jaideep Mundada**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+Tech+Explorer;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-
 </div>
 
 ## 👨‍💻 About Me
