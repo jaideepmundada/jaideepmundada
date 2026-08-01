@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm an **Information Technology student** with a strong passion for learning new technologies and continuously improving my technical skills. I enjoy solving problems, exploring modern tools and frameworks, and transforming ideas into real-world applications. I'm particularly interested in **Full Stack Web Development**, where I can build scalable, user-friendly applications from the frontend to the backend. My goal is to keep learning, build impactful projects, and grow as a software developer.
