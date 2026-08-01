@@ -95,7 +95,6 @@ I'm an **Information Technology student** with a strong passion for learning new
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/jaideepmundada/**
 - 💻 LeetCode: **https://leetcode.com/u/jaideep_mundada/**
-- 📧 Email: **mundadajaideep@gmail.com**
 
 
 ⭐ **Thanks for visiting my profile!**
