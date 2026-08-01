@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!" />
+# 👋 Hey there, I'm **Jaideep Mundada**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+Tech+Explorer;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=jaideepmundada&label=PROFILE+VIEWS&style=for-the-badge&color=9333EA)
+<img src="https://komarev.com/ghpvc/?username=jaideepmundada&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
